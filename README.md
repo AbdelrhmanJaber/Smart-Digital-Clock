@@ -2,8 +2,6 @@
 
 smart digital clock with two main mode 12 Hours (AM or PM) and 24 Hours.
 
-the Clock system can handle with the malicious users.
-
 the user's password is saved in non volatile memory (EEPROM) and the user has access on it.
 
 the user can change the password or reset the system. 
